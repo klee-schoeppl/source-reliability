@@ -11,4 +11,4 @@ This model, which I wrote for my Master's thesis at the MCMP, puts eight agents 
 * Hein Duijf (2021) *“Should one trust experts?”*
 * Ulrike Hahn, Christoph Merdes & Momme von Sydow (2018) *“How good is your evidence and how would you know?”*
 * Christoph Merdes, Momme von Sydow & Ulrike Hahn (2021) *“Formal models of source reliability.”*
-* ALvin Goldman (1999) *“Knowledge in a social world.”*
+* Alvin Goldman (1999) *“Knowledge in a social world.”*
