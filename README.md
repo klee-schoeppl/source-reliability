@@ -5,7 +5,7 @@ This model, which I wrote for my Master's thesis at the MCMP, puts eight agents 
 #### References:
 * Adam Harris, Ulrike Hahn, Jens Madsen & Anne Hsu (2016) *“The appeal to expert opinion: Quantitative support for a Bayesian network approach.”*
 * Erik J. Olsson (2011) *“A simulation approach to veritistic social epistemology.”*
-* Staffan Angere (2010) *“Knowledge in a social network.”*
+* Sofie Angere (2010) *“Knowledge in a social network.”*
 * Leon Assaad (2022) *“Trust in Information Sources: Reconstructing Worrisome Phenomena Using Bayesian Models of Source Reliability.”*
 * Luc Bovens & Stephan Hartmann (2004) *“Bayesian epistemology.”*
 * Hein Duijf (2021) *“Should one trust experts?”*
